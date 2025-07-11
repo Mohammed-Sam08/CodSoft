@@ -14,13 +14,24 @@ A fun console-based game where the program randomly generates a number between 1
 > File: `Task1_number_guessing.cpp`
 
 
-✅ Task 2: Simple Calculator
+✅ **Task 2: Simple Calculator**
 
 A basic calculator built in C++ that allows users to perform simple arithmetic operations like addition, subtraction, multiplication, and division on two numbers.
 
 > File:'Task2_simplecalculator.cpp'
-## 📌 Upcoming Tasks
-- 🔄 Task 3: Tic-Tac-Toe Game  
+
+## ✅ Task 3: Tic-Tac-Toe Game
+
+A console-based **2-player Tic-Tac-Toe game** developed in C++. Features include:
+
+- 3x3 Game Board Display
+- Input from both players alternately (Player X and Player O)
+- Win and Draw condition checks
+- Play-again option at the end
+
+This task helped me explore arrays, functions, loops, and game logic implementation in C++.
+
+> File Name: 'Task3_TIC-TAK-TOE.cpp
 
 
 ## 🔗 Connect With Me
