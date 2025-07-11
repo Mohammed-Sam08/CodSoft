@@ -32,7 +32,7 @@ A console-based **2-player Tic-Tac-Toe game** developed in C++. Features include
 
 This task helped me explore arrays, functions, loops, and game logic implementation in C++.
 
-> File Name: 'Task3_TIC-TAK-TOE.cpp
+> File Name: 'Task3_TIC-TAK-TOE.cpp'
 
 ## ✅ Task 4: To-Do List Manager
 
@@ -46,7 +46,7 @@ A simple console-based **To-Do List application** in C++ that allows users to ma
 
 This project improved my understanding of structures, arrays/vectors, functions, and user interaction in a CLI environment.
 
-> **File Name:** [`task4_todo_list.cpp`](./task4_todo_list.cpp)
+> File Name:'Task4_TO_DO_LIST.cpp'
 
 
 ## 🔗 Connect With Me
