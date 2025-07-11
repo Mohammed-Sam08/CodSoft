@@ -14,9 +14,10 @@ A fun console-based game where the program randomly generates a number between 1
 > File: `Task1_number_guessing.cpp`
 
 
-✅ **Task 2: Simple Calculator**
+## ✅ **Task 2: Simple Calculator**
 
-A basic calculator built in C++ that allows users to perform simple arithmetic operations like addition, subtraction, multiplication, and division on two numbers.
+A basic calculator built in C++ that allows users to perform simple arithmetic operations like:-
+addition, subtraction, multiplication, and division on two numbers.
 
 > File:'Task2_simplecalculator.cpp'
 
