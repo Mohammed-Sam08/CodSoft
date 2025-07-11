@@ -34,6 +34,20 @@ This task helped me explore arrays, functions, loops, and game logic implementat
 
 > File Name: 'Task3_TIC-TAK-TOE.cpp
 
+## ✅ Task 4: To-Do List Manager
+
+A simple console-based **To-Do List application** in C++ that allows users to manage daily tasks effectively. Key features include:
+
+- Add tasks
+- Show task 
+- Mark tasks as done
+- Delete tasks
+- exit
+
+This project improved my understanding of structures, arrays/vectors, functions, and user interaction in a CLI environment.
+
+> **File Name:** [`task4_todo_list.cpp`](./task4_todo_list.cpp)
+
 
 ## 🔗 Connect With Me
 
